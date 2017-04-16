@@ -123,14 +123,6 @@
 	cursor: pointer;
 }
 
-#u308
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
 #u163
 {
 	border-style: none;
@@ -157,6 +149,14 @@
 	font-size: 18px;
 	color: #B3B3B3;
 	line-height: 26px;
+	position: relative;
+}
+
+#u308,#u1204
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 }
 

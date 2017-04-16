@@ -7,12 +7,11 @@
 {
 	z-index: 1;
 	width: 1000px;
-	min-height: 468.96626904282846px;
+	min-height: 417px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -20,7 +19,7 @@
 #page_position_content
 {
 	margin-top: -1px;
-	margin-bottom: -31px;
+	margin-bottom: -87px;
 }
 
 #u166
@@ -233,7 +232,7 @@
 
 #u870
 {
-	z-index: 52;
+	z-index: 53;
 	width: 451px;
 	border-width: 4px;
 	border-style: solid;
@@ -259,7 +258,7 @@
 
 #u871-4
 {
-	z-index: 53;
+	z-index: 54;
 	display: block;
 	vertical-align: top;
 	margin-left: 21px;
@@ -276,7 +275,7 @@
 
 #buttonu875
 {
-	z-index: 57;
+	z-index: 58;
 	width: 196px;
 	border-width: 1px;
 	border-style: solid;
@@ -302,7 +301,7 @@
 
 #u876
 {
-	z-index: 59;
+	z-index: 60;
 	height: 44px;
 	width: 197px;
 	vertical-align: top;
@@ -320,7 +319,7 @@
 
 #buttonu884
 {
-	z-index: 61;
+	z-index: 62;
 	width: 198px;
 	border-width: 1px;
 	border-style: solid;
@@ -346,7 +345,7 @@
 
 #u885
 {
-	z-index: 63;
+	z-index: 64;
 	height: 23px;
 	width: 196px;
 	vertical-align: top;
@@ -373,7 +372,7 @@
 
 #u891
 {
-	z-index: 65;
+	z-index: 66;
 	width: 544px;
 	margin-left: 62px;
 	margin-top: 28px;
@@ -382,7 +381,7 @@
 
 #u893-4
 {
-	z-index: 66;
+	z-index: 67;
 	width: 417px;
 	min-height: 23px;
 	color: #005883;
@@ -393,7 +392,7 @@
 
 #u892-4
 {
-	z-index: 70;
+	z-index: 71;
 	width: 200px;
 	position: relative;
 	margin-right: -10000px;
@@ -403,8 +402,9 @@
 {
 	z-index: 10;
 	width: 1200px;
-	padding-bottom: 20px;
+	padding-bottom: 1px;
 	left: -100px;
+	top: -13px;
 }
 
 #u163_align_to_page
@@ -413,6 +413,7 @@
 	margin-right: auto;
 	width: 1000px;
 	left: -100px;
+	margin-bottom: -13px;
 }
 
 #u164
@@ -421,7 +422,7 @@
 	width: 231px;
 	height: 42px;
 	margin-right: -10000px;
-	margin-top: 26px;
+	margin-top: 28px;
 	left: 163px;
 }
 
@@ -431,13 +432,23 @@
 	width: 245px;
 	min-height: 62px;
 	margin-right: -10000px;
-	margin-top: 18px;
+	margin-top: 20px;
 	left: 442px;
+}
+
+#u1204
+{
+	z-index: 52;
+	width: 200px;
+	min-height: 100px;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 980px;
 }
 
 body
 {
-	padding-bottom: 29px;
+	padding-bottom: 86px;
 }
 
 #page .verticalspacer
