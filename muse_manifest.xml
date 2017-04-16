@@ -1,0 +1,128 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="master_a-p_gina-maestra.css" crc="4209265253" ref="multimedia:autor:actividades:index:lecturas:programa-informático-y-aplicación-informática:actividades-1:introducción:código-fuente,-código-objeto-y-ejecutable:actividades-2:herramientas-de-programación:tipos-de-lenguaje-de-programación:audio:actividades-3:videos:fases-del-desarrollo-del-software"/>
+    <file name="multimedia.css" crc="4107955661" ref="multimedia"/>
+    <file name="autor.css" crc="378234375" ref="autor"/>
+    <file name="actividades.css" crc="355067242" ref="actividades"/>
+    <file name="index.css" crc="4224586919" ref="index"/>
+    <file name="lecturas.css" crc="37445175" ref="lecturas"/>
+    <file name="programa-inform_tico-y-aplicaci_n-inform_tica.css" crc="4030817370" ref="programa-informático-y-aplicación-informática"/>
+    <file name="actividades-1.css" crc="78010586" ref="actividades-1"/>
+    <file name="introducci_n.css" crc="281583504" ref="introducción"/>
+    <file name="c_digo-fuente_-c_digo-objeto-y-ejecutable.css" crc="4050073486" ref="código-fuente,-código-objeto-y-ejecutable"/>
+    <file name="actividades-2.css" crc="517107152" ref="actividades-2"/>
+    <file name="herramientas-de-programaci_n.css" crc="192774507" ref="herramientas-de-programación"/>
+    <file name="tipos-de-lenguaje-de-programaci_n.css" crc="420849705" ref="tipos-de-lenguaje-de-programación"/>
+    <file name="audio.css" crc="336824149" ref="audio"/>
+    <file name="actividades-3.css" crc="348696697" ref="actividades-3"/>
+    <file name="videos.css" crc="4141282644" ref="videos"/>
+    <file name="fases-del-desarrollo-del-software.css" crc="272075840" ref="fases-del-desarrollo-del-software"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="museutils.js" crc="3865766194" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="pie.js" crc="3827607177" ref="lecturas:multimedia:actividades:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:autor"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="autor"/>
+    <file name="webpro.js" crc="3903299128" ref="autor"/>
+    <file name="musewpdisclosure.js" crc="4285748861" ref="autor"/>
+  </folder>
+  <folder name="images">
+    <file name="ecbti.png" crc="449933365" ref="index:lecturas"/>
+    <file name="logounad_s.png" crc="4039684247" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="u161-6.png" crc="3924197947" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="u260-4.png" crc="4080145589" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="u267-4.png" crc="49953687" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="u282-4.png" crc="4072913550" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="u288-4.png" crc="380920557" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="u297-4.png" crc="4259076568" ref="index:lecturas:multimedia:actividades:autor:introducción:programa-informático-y-aplicación-informática:tipos-de-lenguaje-de-programación:código-fuente,-código-objeto-y-ejecutable:fases-del-desarrollo-del-software:herramientas-de-programación:audio:videos:actividades-1:actividades-2:actividades-3"/>
+    <file name="logounadgrisinferior.png" crc="216339064" ref="index:lecturas"/>
+    <file name="u322-10.png" crc="4073994837" ref="index"/>
+    <file name="u329-4.png" crc="3846331999" ref="lecturas"/>
+    <file name="blank.gif" crc="4208392903" ref="lecturas:multimedia:actividades"/>
+    <file name="u775.png" crc="512707361" ref="lecturas"/>
+    <file name="u775-r.png" crc="512707361" ref="lecturas"/>
+    <file name="u851.png" crc="3869842766" ref="lecturas"/>
+    <file name="u851-r.png" crc="3869842766" ref="lecturas"/>
+    <file name="u863.png" crc="176430713" ref="lecturas"/>
+    <file name="u863-r.png" crc="176430713" ref="lecturas"/>
+    <file name="u860.png" crc="270672362" ref="lecturas"/>
+    <file name="u860-r.png" crc="270672362" ref="lecturas"/>
+    <file name="u865.png" crc="3995891493" ref="lecturas"/>
+    <file name="u865-r.png" crc="3995891493" ref="lecturas"/>
+    <file name="u857.png" crc="199654531" ref="lecturas"/>
+    <file name="u857-r.png" crc="199654531" ref="lecturas"/>
+    <file name="u871-4.png" crc="3858169469" ref="multimedia"/>
+    <file name="u876.png" crc="238222416" ref="multimedia"/>
+    <file name="u876-r.png" crc="238222416" ref="multimedia"/>
+    <file name="u885.png" crc="4154221282" ref="multimedia"/>
+    <file name="u885-r.png" crc="4154221282" ref="multimedia"/>
+    <file name="u955-4.png" crc="356040459" ref="actividades"/>
+    <file name="u961.png" crc="3888818772" ref="actividades"/>
+    <file name="u961-r.png" crc="3888818772" ref="actividades"/>
+    <file name="u969.png" crc="4256353178" ref="actividades"/>
+    <file name="u969-r.png" crc="4256353178" ref="actividades"/>
+    <file name="u967.png" crc="4111051690" ref="actividades"/>
+    <file name="u967-r.png" crc="4111051690" ref="actividades"/>
+    <file name="u838-4.png" crc="135053947" ref="introducción"/>
+    <file name="u839-14.png" crc="449789477" ref="introducción"/>
+    <file name="intro.jpg" crc="35982355" ref="introducción"/>
+    <file name="u1002-4.png" crc="111057812" ref="programa-informático-y-aplicación-informática"/>
+    <file name="util.png" crc="355757993" ref="programa-informático-y-aplicación-informática"/>
+    <file name="u1013-4.png" crc="163687404" ref="tipos-de-lenguaje-de-programación"/>
+    <file name="u1014-16.png" crc="36203175" ref="tipos-de-lenguaje-de-programación"/>
+    <file name="lenguajes-u1033-fr.jpg" crc="82056040" ref="tipos-de-lenguaje-de-programación"/>
+    <file name="u1050-31.png" crc="3844388440" ref="tipos-de-lenguaje-de-programación"/>
+    <file name="pasted image 688x276.jpg" crc="4277161354" ref="tipos-de-lenguaje-de-programación"/>
+    <file name="u1027-9.png" crc="3867667269" ref="tipos-de-lenguaje-de-programación"/>
+    <file name="u1043-4.png" crc="144302165" ref="código-fuente,-código-objeto-y-ejecutable"/>
+    <file name="u1044-11.png" crc="206370059" ref="código-fuente,-código-objeto-y-ejecutable"/>
+    <file name="pasted image 539x116.jpg" crc="4019853421" ref="código-fuente,-código-objeto-y-ejecutable"/>
+    <file name="u1051-21.png" crc="4098087375" ref="código-fuente,-código-objeto-y-ejecutable"/>
+    <file name="pasted image 645x270.jpg" crc="4229228550" ref="código-fuente,-código-objeto-y-ejecutable"/>
+    <file name="u909-5.png" crc="3849927470" ref="audio"/>
+    <file name="u914-4.png" crc="245869338" ref="audio"/>
+    <file name="u916-4.png" crc="394373419" ref="videos"/>
+    <file name="u915-4.png" crc="532273962" ref="videos"/>
+    <file name="u928-4.png" crc="4291753435" ref="videos"/>
+    <file name="u929-4.png" crc="274057835" ref="videos"/>
+    <file name="u977-4.png" crc="231838211" ref="actividades-1"/>
+    <file name="u980-4.png" crc="398999901" ref="actividades-1"/>
+    <file name="u983-4.png" crc="3927255590" ref="actividades-2"/>
+    <file name="u984-4.png" crc="61037110" ref="actividades-2"/>
+    <file name="u993-4.png" crc="4155175425" ref="actividades-3"/>
+    <file name="u996-4.png" crc="3898254223" ref="actividades-3"/>
+    <file name="u1098-4.png" crc="3931466079" ref="autor"/>
+    <file name="foto-u1188-fr.jpg" crc="4149226158" ref="autor"/>
+    <file name="u1105-13.png" crc="304774728" ref="autor"/>
+    <file name="u1059-10.png" crc="217990117" ref="programa-informático-y-aplicación-informática"/>
+    <file name="u1060-19.png" crc="4275682859" ref="programa-informático-y-aplicación-informática"/>
+    <file name="u1062-4.png" crc="3897951950" ref="fases-del-desarrollo-del-software"/>
+    <file name="u1063-15.png" crc="3925210794" ref="fases-del-desarrollo-del-software"/>
+    <file name="pasted image 626x435.jpg" crc="3807216919" ref="fases-del-desarrollo-del-software"/>
+    <file name="u1069-39.png" crc="69186135" ref="fases-del-desarrollo-del-software"/>
+    <file name="u1075-4.png" crc="4201905766" ref="herramientas-de-programación"/>
+    <file name="u1076-4.png" crc="4278919360" ref="herramientas-de-programación"/>
+    <file name="pasted image 308x217.jpg" crc="4111374125" ref="herramientas-de-programación"/>
+    <file name="u1085-31.png" crc="304965080" ref="herramientas-de-programación"/>
+  </folder>
+  <file name="index.html" crc="482174381" mt="1492358417487" redirect="true"/>
+  <file name="lecturas.html" crc="3775412557" mt="1492360225893" redirect="true"/>
+  <file name="multimedia.html" crc="4105210657" mt="1492360235122" redirect="true"/>
+  <file name="actividades.html" crc="4055658107" mt="1492360049715" redirect="true"/>
+  <file name="autor.html" crc="89818675" mt="1492359651826" redirect="true"/>
+  <file name="introducción.html" crc="3774510263" mt="1492358417518" redirect="true"/>
+  <file name="programa-informático-y-aplicación-informática.html" crc="185982715" mt="1492358417518" redirect="true"/>
+  <file name="tipos-de-lenguaje-de-programación.html" crc="4002521599" mt="1492358417518" redirect="true"/>
+  <file name="código-fuente,-código-objeto-y-ejecutable.html" crc="3883371393" mt="1492358417518" redirect="true"/>
+  <file name="fases-del-desarrollo-del-software.html" crc="3919095030" mt="1492358417534" redirect="true"/>
+  <file name="herramientas-de-programación.html" crc="3761766482" mt="1492359886075" redirect="true"/>
+  <file name="audio.html" crc="169531891" mt="1492358744361" redirect="true"/>
+  <file name="videos.html" crc="4200542199" mt="1492358784753" redirect="true"/>
+  <file name="actividades-1.html" crc="213087312" mt="1492358809506" redirect="true"/>
+  <file name="actividades-2.html" crc="478940671" mt="1492358820247" redirect="true"/>
+  <file name="actividades-3.html" crc="510288008" mt="1492358417549" redirect="true"/>
+</manifest>
